@@ -1,4 +1,4 @@
 Nodejsgame
 ==========
 
-Nodejs Game
+Nodejs Game for Multiplayer
